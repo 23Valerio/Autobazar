@@ -13,7 +13,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         sc.useLocale(Locale.US);
         ArrayList<Car> autobazar = new ArrayList<>(); // create array of cars class
-
+        // making some changes for committing and creating new brunch
         // set info about first car in data base
         Owner owner1 = new Owner();
         Car firstCar = new Car();
